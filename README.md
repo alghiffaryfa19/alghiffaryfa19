@@ -3,6 +3,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alghiffaryfa19&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alghiffaryfa19&theme=dracula)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alghiffaryfa19&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alghiffaryfa19&theme=dracula)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
