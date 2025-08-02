@@ -1,5 +1,9 @@
 # Hello! :wave:
 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alghiffaryfa19&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alghiffaryfa19&theme=dracula)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alghiffaryfa19&theme=dracula)
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual-Studio-Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
